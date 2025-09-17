@@ -1,6 +1,5 @@
 streamlit
 pandas
 openpyxl
-xlrd
 pyxlsb
-pyyaml
+sqlite-utils
