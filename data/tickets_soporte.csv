@@ -1,0 +1,4 @@
+ticket_id,cliente,fecha,asunto,estado,agente
+T-1001,Consuelo García,2025-09-10,Error al abrir Excel,cerrado,Laura
+T-1002,Juan Pérez,2025-09-12,Consulta sobre índice FTS5,abierto,Diego
+T-1003,Ana Rojas,2025-09-14,Problema con streamlit,en progreso,María

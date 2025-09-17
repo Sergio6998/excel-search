@@ -1,0 +1,4 @@
+factura_id,cliente_id,fecha,concepto,valor,estado
+F-2025-001,1,2025-08-03,Servicio de soporte,1200000,pagado
+F-2025-002,2,2025-08-15,Licencia anual,3500000,pendiente
+F-2025-003,1,2025-09-05,Consultoría BM25 y FTS5,2400000,pagado

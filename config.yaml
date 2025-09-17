@@ -1,0 +1,3 @@
+root_dir: data
+index_db: index/search.db
+language: es
